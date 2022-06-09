@@ -15,10 +15,10 @@ This game was inspired by the game: "LEGO® Five Nights at Freddy's" by @Raulio2
 
 https://discord.gg/bqhHy97GjV
 
-https://github.com/CaptainQWasTaken/Lego-FNaF-SL
+https://github.com/CaptainQWasTaken/Lego-FNAF-4
 
 ## OTHER GAME:
 
-https://gamejolt.com/games/LEGO-Five-Nights-at-Freddys-4/723243
+https://gamejolt.com/games/LEGO-Five-Nights-at-Freddys-Sister-Location/724022
 
-https://github.com/CaptainQWasTaken/Lego-FNAF-4
+https://github.com/CaptainQWasTaken/Lego-FNaF-SL
